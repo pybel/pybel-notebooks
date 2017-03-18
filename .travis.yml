@@ -8,6 +8,8 @@ python:
 
 install:
     - pip install nose
+    - pip install nbconvert
+    - pip install nbformat
 
 script:
     - python -m nose

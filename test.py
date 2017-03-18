@@ -1,7 +1,6 @@
 import os
 import unittest
 
-import click
 import nbformat
 from nbconvert.preprocessors import ExecutePreprocessor
 
