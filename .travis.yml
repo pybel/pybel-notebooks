@@ -10,6 +10,7 @@ install:
     - pip install nose
     - pip install nbconvert
     - pip install nbformat
+    - pip install jupyter
 
 script:
     - python -m nose
