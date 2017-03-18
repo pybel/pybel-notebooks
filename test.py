@@ -17,7 +17,7 @@ class TestNotebooks(unittest.TestCase):
     """This test class checks that Jupyter notebooks run to completion"""
     def help(self, path):
         with open(os.path.join(DIRECTORY, path)) as f:
-            nb = nbformat.read(file, as_version=4)
+            nb = nbformat.read(f, as_version=4)
             ep = ExecutePreprocessor(timeout=600, kernel_name='python3')
             ep.preprocess(nb, {'metadata': {'path': DIRECTORY}})
     
