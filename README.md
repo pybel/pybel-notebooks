@@ -1,25 +1,28 @@
 # Table of Contents
 
-### 1. PyBEL Demo ([source](https://github.com/pybel/pybel-notebooks/blob/master/PyBEL%20Demo.ipynb)\) ([nbviewer](http://nbviewer.jupyter.org/github/pybel/pybel-notebooks/blob/master/PyBEL%20Demo.ipynb)\)
+## Summary
 
-Demonstrates simple PyBEL functions for loading networks and analysis
+This directory contains notebooks that analyze the contents of a BEL graph.
 
-### 2. BEL Compiler Comparison ([source](https://github.com/pybel/pybel-notebooks/blob/master/BEL%20Compiler%20Comparison.ipynb)\) ([nbviewer](http://nbviewer.jupyter.org/github/pybel/pybel-notebooks/blob/master/BEL%20Compiler%20Comparison.ipynb)\)
+## Algorithms
+
+This directory contains notebooks demonstrating algorithms implemented with PyBEL and NetworkX.
+
+## Resources
+
+This directory contains notebooks related to the generation of BEL resources (namespaces and 
+annotations)
+
+## Root Directory
+
+### Template Notebook ([source](https://github.com/pybel/pybel-notebooks/blob/master/Template.ipynb))
+
+This notebook serves as a style guide for other notebooks in this repository.
+
+### BEL Compiler Comparison Notebook ([source](https://github.com/pybel/pybel-notebooks/blob/master/BEL%20Compiler%20Comparison.ipynb)\) ([nbviewer](http://nbviewer.jupyter.org/github/pybel/pybel-notebooks/blob/master/BEL%20Compiler%20Comparison.ipynb)\)
 	
-Compares the performance of PyBEL with bel.rb and the OpenBEL Framework.
-	
-### 3. Resolving Incorrect Names ([source](https://github.com/pybel/pybel-notebooks/blob/master/Resolving%20Incorrect%20Names.ipynb)\) ([nbviewer](http://nbviewer.jupyter.org/github/pybel/pybel-notebooks/blob/master/Resolving%20Incorrect%20Names.ipynb)\)
+The speed and usability of the PyBEL compiler is compared to the two legacy options: bel.rb and the OpenBEL Framework.
 
-Demonstrates using fuzzy string search to help find the proper identifiers for BEL terms
+### test.py ([source](https://github.com/pybel/pybel-notebooks/blob/master/test.py))
 
-### 4. Resolving Names of Complexes ([source](https://github.com/pybel/pybel-notebooks/blob/master/Resolving%20Names%20of%20Complexes.ipynb)\) ([nbviewer](http://nbviewer.jupyter.org/github/pybel/pybel-notebooks/blob/master/Resolving%20Names%20of%20Complexes.ipynb)\)
-
-Uses resources from the OpenBEL Framework to resolve complexes named by their definitions to their proper names
-
-### 5. Collapsing Orthologous Nodes ([source](https://github.com/pybel/pybel-notebooks/blob/master/Collapsing%20Orthologous%20Nodes.ipynb)\) ([nbviewer](http://nbviewer.jupyter.org/github/pybel/pybel-notebooks/blob/master/Collapsing%20Orthologous%20Nodes.ipynb)\)
-
-Uses resources from the OpenBEL Framework on orthology relationships between human, rat, and mouse genes to make inferences in BEL network analysis
-
-### 6. Building a SNP Namespace ([source](https://github.com/pybel/pybel-notebooks/blob/master/Building%20SNP%20Namespace.ipynb)\) ([nbviewer](http://nbviewer.jupyter.org/github/pybel/pybel-notebooks/blob/master/Building%20SNP%20Namespace.ipynb)\)
-
-Uses Illumina manifests as proxy for dbSNP ID's to build a namespace.
+This file can be run with `python3 -m nose` to check that notebooks run to completion.
