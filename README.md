@@ -1,17 +1,32 @@
 # Table of Contents
 
-## Summary
+## [Summary](https://github.com/pybel/pybel-notebooks/tree/master/summary)
 
 This directory contains notebooks that analyze the contents of a BEL graph.
 
-## Algorithms
+1. Graph Summary
+2. Citation Summary
+3. Error Analysis
+
+## [Algorithms](https://github.com/pybel/pybel-notebooks/tree/master/algorithms)
 
 This directory contains notebooks demonstrating algorithms implemented with PyBEL and NetworkX.
 
-## Resources
+1. Unbiased Candidate Mechanism Generation
+2. Subgraph Expansion
+3. Subgraph Comparison
+4. Network Perturbation Algorithm
+
+## [Resources](https://github.com/pybel/pybel-notebooks/tree/master/resources)
 
 This directory contains notebooks related to the generation of BEL resources (namespaces and 
 annotations)
+
+1. Rebuilding the HGNC Gene Symbol Namespace
+2. Building the HGNC Gene Family Namespace
+3. Building the dbSNP Namespace
+4. Parsing the JSON Graph Interchange Format from CBN
+
 
 ## Root Directory
 
