@@ -1,4 +1,7 @@
-# Table of Contents
+# PyBEL Notebooks
+
+This repository contains Jupyter notebooks demonstrating the [PyBEL](https://github.com/pybel/pybel) and 
+[PyBEL Tools](https://github.com/pybel/pybel-tools) packages.
 
 ## [Summary](https://github.com/pybel/pybel-notebooks/tree/master/summary)
 
@@ -19,8 +22,8 @@ This directory contains notebooks demonstrating algorithms implemented with PyBE
 
 ## [Resources](https://github.com/pybel/pybel-notebooks/tree/master/resources)
 
-This directory contains notebooks related to the generation of BEL resources (namespaces and 
-annotations)
+This directory contains notebooks related to the generation of BEL resources (namespaces, annotations, and knowledge 
+assemblies)
 
 1. Rebuilding the HGNC Gene Symbol Namespace
 2. Building the HGNC Gene Family Namespace
