@@ -25,11 +25,8 @@ This directory contains notebooks demonstrating algorithms implemented with PyBE
 This directory contains notebooks related to the generation of BEL resources (namespaces, annotations, and knowledge 
 assemblies)
 
-1. Rebuilding the HGNC Gene Symbol Namespace
-2. Building the HGNC Gene Family Namespace
-3. Building the dbSNP Namespace
-4. Parsing the JSON Graph Interchange Format from CBN
-
+1. Building the dbSNP Namespace
+2. Parsing the JSON Graph Interchange Format from CBN
 
 ## Root Directory
 
