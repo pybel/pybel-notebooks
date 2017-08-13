@@ -20,14 +20,6 @@ This directory contains notebooks demonstrating algorithms implemented with PyBE
 3. Subgraph Comparison
 4. Network Perturbation Algorithm
 
-## [Resources](https://github.com/pybel/pybel-notebooks/tree/master/resources)
-
-This directory contains notebooks related to the generation of BEL resources (namespaces, annotations, and knowledge 
-assemblies)
-
-1. Building the dbSNP Namespace
-2. Parsing the JSON Graph Interchange Format from CBN
-
 ## Root Directory
 
 ### Template Notebook ([source](https://github.com/pybel/pybel-notebooks/blob/master/Template.ipynb))
