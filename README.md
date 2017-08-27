@@ -30,10 +30,6 @@ This notebook serves as a style guide for other notebooks in this repository.
 	
 The speed and usability of the PyBEL compiler is compared to the two legacy options: bel.rb and the OpenBEL Framework.
 
-### Parsing JSON Graph Interchange Format
-
-This notebook outlines the process of parsing the JSON Graph File format used in the Causal Biological Network (CBN) Database. 
-
 ### test.py ([source](https://github.com/pybel/pybel-notebooks/blob/master/test.py))
 
 This file can be run with `python3 -m nose` to check that notebooks run to completion.

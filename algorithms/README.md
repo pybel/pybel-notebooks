@@ -1,4 +1,4 @@
-### Candidate Mechanism Generation ([source](https://github.com/pybel/pybel-notebooks/blob/master/algorithms/Candidate%20Mechanism%20Generation.ipynb)) ([nbviewer](http://nbviewer.jupyter.org/github/pybel/pybel-notebooks/blob/master/algorithms/Candidate%20Mechanism%20Generation.ipynb))
+### Generating Candidate Mechanisms ([source](https://github.com/pybel/pybel-notebooks/blob/master/algorithms/Candidate%20Mechanism%20Generation.ipynb)) ([nbviewer](http://nbviewer.jupyter.org/github/pybel/pybel-notebooks/blob/master/algorithms/Candidate%20Mechanism%20Generation.ipynb))
 
 This notebooks outlines the process of generating unbiased candidate mechanisms and comparing them to the dogmatic mechanisms from the [NeuroMMSig Database](http://neurommsig.scai.fraunhofer.de/).
 
@@ -10,6 +10,15 @@ This notebook demonstrates the utilities in [PyBEL Tools](http://pybel-tools.rea
 
 This notebook explores methods of comparing subgraphs and identifying meaningful overlaps between them.
 
-### Network Perturbation Algorithm ([source](https://github.com/pybel/pybel-notebooks/blob/master/algorithms/Network%20Perturbation%20Algorithm.ipynb)) ([nbviewer](http://nbviewer.jupyter.org/github/pybel/pybel-notebooks/blob/master/algorithms/Network%20Perturbation%20Algorithm.ipynb))
+### Candidate Mechanism Pertubation Amplitude ([source](https://github.com/pybel/pybel-notebooks/blob/master/algorithms/Network%20Perturbation%20Algorithm.ipynb)) ([nbviewer](http://nbviewer.jupyter.org/github/pybel/pybel-notebooks/blob/master/algorithms/Network%20Perturbation%20Algorithm.ipynb))
 
 This notebooks demonstrates the usage of a variant on the [Network Perturbation Amplitude](http://bmcsystbiol.biomedcentral.com/articles/10.1186/1752-0509-6-54) algorithm to analyze an BEL knowledge assembly in the context of a differential gene expression experiment. 
+
+### Time Series CMPA ([source](https://github.com/pybel/pybel-notebooks/blob/master/algorithms/Time%20Series%20CMPA.ipynb)) ([nbviewer](http://nbviewer.jupyter.org/github/pybel/pybel-notebooks/blob/master/algorithms/Time%20Series%20CMPA.ipynb))
+
+This notebook compares the candidate mechanism perturbation amplitude at multiple disease stages in Alzheimer's Disease experiments, using the PyBEL web service.
+
+
+### Concordance Analysis ([source](https://github.com/pybel/pybel-notebooks/blob/master/algorithms/Concordance%20Analysis.ipynb)) ([nbviewer](http://nbviewer.jupyter.org/github/pybel/pybel-notebooks/blob/master/algorithms/Concordance%20Analysis.ipynb))
+
+This notebook calculates the concordance between differential gene expression and the causal relationships between their protein products. This analysis assumes the forward hypothesis, under which gene expression is believed to be correlated with protein activity.
