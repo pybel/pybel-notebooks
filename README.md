@@ -11,14 +11,23 @@ This directory contains notebooks that analyze the contents of a BEL graph.
 2. Citation Summary
 3. Error Analysis
 
+## [Integration](https://github.com/pybel/pybel-notebooks/tree/master/integration)
+
+This directory contains notebooks dealing with input/output and data integration.
+
+1. Parsing JGIF
+2. Resolving Protein Complexes
+
 ## [Algorithms](https://github.com/pybel/pybel-notebooks/tree/master/algorithms)
 
 This directory contains notebooks demonstrating algorithms implemented with PyBEL and NetworkX.
 
-1. Unbiased Candidate Mechanism Generation
+1. Generation of Unbiased Candidate Mechanisms
 2. Subgraph Expansion
 3. Subgraph Comparison
-4. Network Perturbation Algorithm
+4. Candidate Mechanism Pertubation Amplitude
+5. Time Series Analysis with CMPA
+6. Concordance Analysis
 
 ## Root Directory
 
