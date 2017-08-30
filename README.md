@@ -3,6 +3,10 @@
 This repository contains Jupyter notebooks demonstrating the [PyBEL](https://github.com/pybel/pybel) and 
 [PyBEL Tools](https://github.com/pybel/pybel-tools) packages.
 
+## Cookbook
+
+This directory contains notebooks that address small problems.
+
 ## [Summary](https://github.com/pybel/pybel-notebooks/tree/master/summary)
 
 This directory contains notebooks that analyze the contents of a BEL graph.
