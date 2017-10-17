@@ -1,0 +1,224 @@
+,Namespace,Name,EarlyAvg,ModerateAvg,SevereAvg,label
+1,GOBP,response to oxidative stress,5.2965960242,2.13703389488,-6.08780100684,0
+3,GOBP,mitochondrial calcium ion homeostasis,-8.9484646,0.93138542,-0.04596701,4
+4,GOBP,electron transport chain,-8.9484646,0.93138542,-0.04596701,4
+5,GOBP,calcium ion homeostasis,2.9788484,9.41264515,6.79679193,2
+6,GOBP,microglial cell activation involved in immune response,-0.0171499398,-3.81314204526,-2.31525904742,0
+7,GOBP,inflammatory response,-5.7780506286,44.2967519376,84.73212350729999,1
+8,GOBP,reactive oxygen species metabolic process,8.9484646,-0.93138542,0.04596701,0
+9,GOBP,neuron apoptotic process,-7.032990988200001,-10.1720573594,2.9152818115400003,4
+10,GOBP,cell death,24.246755033000003,-4.55720665426,2.38904477,3
+11,GOBP,apoptotic process,1.1868986000000001,12.51767311,-5.05312797,0
+12,GOBP,memory,-4.49677386,0.81602918566,2.18216672436,4
+13,GOBP,"regulation of synaptic transmission, cholinergic",-5.0474666,1.98585374,-1.34863339,4
+15,GOBP,response to endoplasmic reticulum stress,-0.7302113,-0.55310323,-5.06436505,0
+16,GOBP,response to unfolded protein,1.5670315000000001,0.92963061,-0.78723979,0
+17,GOBP,endoplasmic reticulum calcium ion homeostasis,1.7615048999999998,2.37582443,1.02667634,0
+18,GOBP,regulation of ryanodine-sensitive calcium-release channel activity,-3.7401176,-1.69242538,1.19366481,4
+19,GOBP,regulation of N-methyl-D-aspartate selective glutamate receptor activity,0.5106225999999999,-0.24082784,0.99910812,0
+20,MESHPP,Lipid Peroxidation,10.3569264,-4.3456402999999995,1.93814372,0
+22,GOBP,cholesterol homeostasis,0.5360604,0.43273124,1.04568959,0
+23,GOBP,cognition,-10.332841998400001,4.522831819059999,0.41362475676,4
+24,GOBP,neuron death,34.8876661494,-9.67545077842,12.6950443306,3
+25,GOBP,"positive regulation of synaptic transmission, glutamatergic",0.0541441,-1.73804452,-1.47768849,0
+28,GOBP,autophagy,0.0152012,0.14690703,0.20542020000000002,0
+29,GOBP,regulation of mitochondrial membrane potential,-0.05302080000000001,-0.03801047,0.13701466,0
+30,GOBP,response to reactive oxygen species,5.1784632,-2.17282015,0.96907186,0
+31,GOBP,mitochondria-nucleus signaling pathway,-14.620587900000002,6.50900543,3.77862733,4
+32,GOBP,mitochondrion organization,-11.202153,4.00166443,4.47732018,4
+33,GOBP,mitochondrial transport,-5.1784632,2.17282015,-0.96907186,4
+34,GOBP,protein import into mitochondrial matrix,-8.9484646,0.93138542,-0.04596701,4
+35,GOBP,lipid oxidation,0.6967886999999999,-0.6512133000000001,-1.72485294,0
+37,GOBP,cell cycle,-0.8938643000000001,-1.0163191999999999,-1.09917952,0
+38,GOBP,cell communication,-1.3160568000000001,-0.62875399,-0.31945498,0
+39,GOBP,cell proliferation,-0.058136,0.34591398,0.05031263,0
+41,GOBP,Notch signaling pathway,-1.822177,4.17888682,8.69413856,2
+44,GOBP,calcium-dependent cell-matrix adhesion,0.20154229999999998,-0.02216887,0.00266298,0
+46,GOBP,regulation of cell-cell adhesion,0.20154229999999998,-0.02216887,0.00266298,0
+47,GOBP,immune response to tumor cell,1.137256,1.6303841000000001,-0.40134828,0
+49,GOBP,regulation of cell cycle,-0.1277598,0.92055734,-0.42703441,0
+50,GOBP,ERK1 and ERK2 cascade,-1.6088548999999999,1.22123031,4.85541705,2
+52,GOBP,neuron migration,0.10604160000000001,0.07602094,-0.27402932,0
+53,GOBP,calcium ion import,0.5803087858,5.731350222200001,8.970167610119999,2
+55,GOBP,regulation of long-term synaptic potentiation,-0.9525435,-1.4223489,0.99591984,0
+56,GOBP,reelin-mediated signaling pathway,-5.323976999999999,2.47962232,-0.6767411999999999,4
+57,GOBP,negative regulation of calcium-mediated signaling,5.4129971,-12.61518527,-0.09950736,0
+58,GOBP,negative regulation of neuron projection regeneration,4.0478989838,-8.77344259226,-4.66084162806,0
+59,GOBP,zinc ion homeostasis,0.47890379999999994,-0.43951271,6.27929076,2
+62,GOBP,positive regulation of neuron apoptotic process,-12.5780474,-15.78148319,-1.76267053,4
+63,GOBP,generation of neurons,1.2173435,7.03682072,5.77011559,2
+65,GOBP,protein catabolic process,-0.19486270000000003,-0.56289355,-0.57828507,0
+66,GOBP,positive regulation of protein neddylation,-0.19486270000000003,-0.56289355,-0.57828507,0
+67,GOBP,cell redox homeostasis,-0.3692295,-0.86993128,-0.78653914,0
+68,GOBP,astrocyte activation,2.1132805,-4.09079171,-2.74864582,0
+69,GOBP,glucose metabolic process,0.0502229,-0.60179092,7.27002611,2
+71,GOBP,neuron projection development,9.9387183,3.39203175,-2.11144544,0
+72,GOBP,regulation of synaptic plasticity,0.6601076,7.02791256,5.83303505,2
+73,GOBP,neuron differentiation,0.0692966,0.1944152,-0.34486940000000005,0
+74,GOBP,long term synaptic depression,-2.5242972000000004,3.6091845,11.76540061,2
+75,GOBP,pre-B cell receptor expression,0.0825926,1.02341071,0.39074377,0
+77,GOBP,microglial cell activation,-1.9634652,-1.10717579,-3.0051755,0
+79,GOBP,endocytosis,0.7149115,-0.035150400000000005,0.56042197,0
+80,GOBP,regulation of microtubule cytoskeleton organization,-3.2902273999999996,-1.6375667999999999,-1.03755596,0
+82,GOBP,regulation of synaptic activity,-1.6202309538,-3.6332694972199993,-5.92449926804,0
+84,GOBP,sodium ion homeostasis,-5.1784632,2.17282015,-0.96907186,4
+85,GOBP,membrane lipid catabolic process,-0.1981983,0.3453516,0.79118242,0
+86,GOBP,calcium ion transport,0.161584,-0.82796964,-0.86381181,0
+89,GOBP,chemokine biosynthetic process,1.6456327000000002,2.85121826,1.70133926,0
+90,GOBP,chronic inflammatory response,7.7171835122,-7.4842817017,-7.1476517615,0
+91,GOBP,production of molecular mediator involved in inflammatory response,-3.7291212864,-14.580781923599998,-13.7195597612,0
+92,GOBP,monocyte aggregation,0.5509426,2.72048483,0.40155637,0
+93,GOBP,cholesterol efflux,-1.1981256,-0.38496282,-0.97760302,0
+94,GOBP,immune response,-1.5313448,-4.2741,-3.32811512,0
+95,GOBP,synaptic vesicle budding from endosome,0.5529453000000001,0.23277479,0.91714202,0
+96,GOBP,stress-activated protein kinase signaling cascade,-0.5062856,-2.0823556,-0.61851701,0
+97,GOBP,long-term synaptic potentiation,-5.0343491792,3.5278633098400003,1.2537171204000002,4
+98,GOBP,"regulation of synaptic transmission, glutamatergic",-1.2122601,-0.18300513,1.57536885,0
+99,GOBP,transmission of nerve impulse,-0.0152942,0.00247659,-0.03863124,0
+100,GOBP,cell growth,0.1945881,0.25640571,0.1399906,0
+102,GOBP,telencephalon microglial cell migration,0.09047589999999998,-0.08309246,-0.22474934,0
+103,GOBP,synapse assembly,3.4451087999999994,4.31262469,1.27940012,0
+104,GOBP,regulation of neuronal synaptic plasticity,-1.8491927,1.81649172,5.73693329,2
+106,GOBP,regulation of dendritic cell dendrite assembly,0.3835716,1.83934505,2.37363004,0
+107,MESHPP,Wnt Signaling Pathway,1.6735316999999998,-0.58396971,0.09983731,0
+108,GOBP,brain development,-1.4947821000000001,5.66314147,15.18542827,2
+109,GOBP,copper ion export,5.1784632,-2.17282015,0.96907186,0
+110,GOBP,cellular response to oxidative stress,-0.1427566,-0.32759715,-0.05539543,0
+112,GOBP,positive regulation of mitochondrial membrane potential,-0.27472399999999997,-1.12358938,-1.74966748,0
+113,GOBP,positive regulation of cellular response to oxidative stress,0.26725279999999996,-0.63273362,-1.68473746,0
+114,GOBP,positive regulation of CREB transcription factor activity,-0.9722531999999999,-1.26527367,-1.02871391,0
+115,GOBP,long-term memory,-0.5993797,-0.81441689,0.87787081,0
+116,GOBP,positive regulation of synaptic plasticity,-1.972775,1.95182134,0.26639437,0
+117,GOBP,cAMP-mediated signaling,0.47890379999999994,-0.43951271,6.27929076,2
+119,GOBP,positive regulation of endocytosis,-1.3294223,1.96302361,-0.26513259999999994,0
+120,GOBP,plasma membrane fusion,-0.4985991,-0.45323097,-0.49264597,0
+121,GOBP,phagocytosis,3.2729304,0.76498363,-3.97364392,0
+122,GOBP,positive regulation of lysosomal membrane permeability,0.6876085,0.29375896,-0.62728436,0
+123,MESHPP,Insulin Resistance,3.2829431000000002,5.04775398,3.31490222,2
+124,MESHPP,Long-Term Potentiation,0.5106225999999999,-0.24082784,0.99910812,0
+125,GOBP,learning or memory,-0.229629,0.18453811,0.22819742,0
+126,GOBP,regulation of catalytic activity,-1.8107586,0.37893296,6.07163427,2
+127,MESHPP,Oxidative Stress,-3.2126194,6.82861349,11.00661416,2
+128,GOBP,negative regulation of insulin-like growth factor receptor signaling pathway,0.09047589999999998,-0.08309246,-0.22474934,0
+129,GOBP,negative regulation of insulin receptor signaling pathway,0.09047589999999998,-0.08309246,-0.22474934,0
+130,GOBP,insulin receptor signaling pathway via phosphatidylinositol 3-kinase,-0.0074028,-0.00070273,-0.14807522,0
+133,MESHPP,Energy Metabolism,0.2591152,0.96047787,0.25782235,0
+134,GOBP,insulin receptor signaling pathway,-0.1866756,0.92800597,-0.43655019,0
+137,GOBP,acetylcholine secretion,-0.229629,0.18453811,0.22819742,0
+141,GOBP,glucose import,-0.05987180000000001,0.96024755,0.43526642,0
+146,GOBP,response to insulin,-0.0854215,0.06600531,-0.00189721,0
+148,GOBP,cell migration,-1.0671177,-3.45652114,0.71712763,0
+150,GOBP,regulation of cAMP-dependent protein kinase activity,0.102009,0.03278586,-0.32860467,0
+151,GOBP,dopamine receptor signaling pathway,-0.102009,-0.03278586,0.32860467,0
+152,GOBP,insulin secretion involved in cellular response to glucose stimulus,-0.9863533000000001,0.09484956,-0.03157631,0
+154,MESHPP,Longevity,-0.054257400000000004,0.08021839,-0.13044781,0
+155,GOBP,activation of GTPase activity,0.1839718,0.08075917,0.29083761,0
+156,GOBP,MAPK cascade,0.0200674,-0.00263136,0.00192462,0
+157,GOBP,activation of MAPKK activity,-0.35551679999999997,-0.9464157,-0.97438823,0
+158,GOBP,TOR signaling,-0.136837,-0.22737779,0.05510603,0
+168,GOBP,"synaptic transmission, cholinergic",0.1978144,-2.31186319,3.27522801,0
+169,GOBP,RNA metabolic process,3.9009980000000004,1.05446832,-1.30266638,0
+171,GOBP,positive regulation of apoptotic process,0.44826220000000006,0.90288648,0.5575524000000001,0
+172,GOBP,cellular senescence,1.6065292,1.55204808,1.17517898,0
+173,GOBP,neurogenesis,2.7551987000000002,4.58464842,6.00701556,2
+175,GOBP,learning,0.163694,7.08397484,3.55771615,2
+176,GOBP,negative regulation of microtubule depolymerization,1.2173435,7.03682072,5.77011559,2
+180,GOBP,neuron development,5.920717400000001,3.77143851,4.03446205,2
+191,GOBP,negative regulation of insulin secretion involved in cellular response to glucose stimulus,-0.229629,0.18453811,0.22819742,0
+192,GOBP,cholesterol biosynthetic process via desmosterol,-0.7889022,0.20013315,-0.17838582,0
+193,GOBP,stress response to copper ion,0.1644601,-0.43834725,-0.98026104,0
+196,MESHPP,Apoptosis,-1.2746786,-2.04987178,4.80488629,2
+198,GOBP,metabolic process,-0.13736199999999998,-0.56179469,-0.87483374,0
+199,GOBP,blood circulation,-10.1527466,2.78253821,2.59147956,4
+200,GOBP,vasodilation,0.40170159999999994,0.40608216,1.73764615,0
+205,GOBP,vasoconstriction,8.4368811,-5.47716372,1.7918051,0
+206,GOBP,nitric oxide-cGMP-mediated signaling pathway,-5.1784632,2.17282015,-0.96907186,4
+207,GOBP,leukotriene production involved in inflammatory response,5.1784632,-2.17282015,0.96907186,0
+213,GOBP,behavior,-0.13736199999999998,-0.56179469,-0.87483374,0
+214,GOBP,xenobiotic metabolic process,0.3611973,-0.43956407,-0.73627984,0
+223,GOBP,prolactin secretion,0.5972773,0.85140108,1.14227925,0
+227,GOBP,"negative regulation of synaptic transmission, glutamatergic",0.47890379999999994,-0.43951271,6.27929076,2
+228,GOBP,angiogenesis,-0.0851548,-0.1577686,0.17213103,0
+231,GOBP,beta-amyloid formation,2.0676487,-6.96606745,-5.78405934,0
+233,GOBP,cell cycle arrest,-0.1945881,-0.25640571,-0.1399906,0
+238,GOBP,beta-amyloid clearance,-0.07263919999999999,-4.2425697,-5.23516505,0
+242,GOBP,natural killer cell activation,2.7429216,0.98679255,-1.87704089,0
+243,GOBP,leukocyte mediated immunity,0.47890379999999994,-0.43951271,6.27929076,2
+247,GOBP,regulation of inflammatory response,1.137256,1.6303841000000001,-0.40134828,0
+249,GOBP,central nervous system development,0.2910276,-0.61360434,-0.58466132,0
+251,GOBP,apoptotic signaling pathway,0.4105496,-1.36848695,-0.88791904,0
+252,GOBP,growth,3.7700013999999995,1.24143473,-0.92310485,0
+253,GOBP,cell cycle checkpoint,-0.0159833,1.38261953,0.00184644,0
+254,GOBP,T cell proliferation,0.3983389,0.05886885,-0.06189094,0
+256,GOBP,glucocorticoid receptor signaling pathway,0.47890379999999994,-0.43951271,6.27929076,2
+257,GOBP,iron ion homeostasis,-0.8494174999999999,-0.46929331,-0.42869197,0
+258,GOBP,positive regulation of gene expression,0.6060545999999999,-0.16683584,0.38081477,0
+259,GOBP,lipid transport,0.22898939999999998,0.10038462,0.31015129,0
+262,GOBP,amyloid fibril formation,-0.1036464,2.75666426,2.76543409,2
+266,GOBP,mitochondrial depolarization,0.1644601,-0.43834725,-0.98026104,0
+268,GOBP,ATP biosynthetic process,-0.35454070000000004,0.01341413,-0.13984749999999999,0
+271,GOBP,lymphocyte activation,2.7429216,0.98679255,-1.87704089,0
+272,GOBP,positive regulation of vasodilation,-1.3160568000000001,-0.62875399,-0.31945498,0
+273,GOBP,cellular response to nitrosative stress,-1.3160568000000001,-0.62875399,-0.31945498,0
+275,GOBP,immune system process,1.3160568000000001,0.62875399,0.31945498,0
+280,GOBP,regulation of MAPK cascade,0.3046011,0.48048286,0.18105513,0
+282,PTS,APP processing pathway,-0.0038373000000000005,0.01371128,0.0356231,0
+283,PTS,amyloid pathway,-0.787605,-0.40408496,0.23679998,0
+284,PTS,amyloidogenic pathway,0.9780401,1.19525323,0.72408115,0
+286,ADO,loss_of_synapses,0.0418531,-0.02275189,-0.03364871,0
+288,GOBP,T cell activation,0.3157463,-0.96454186,-0.45263471,0
+294,MESHPP,Neurogenesis,-0.11603379999999999,-0.21958646,-0.16108184,0
+298,GOBP,cAMP catabolic process,-0.225775,-0.29925342,-0.12971982,0
+300,GOBP,cell-cell signaling,3.7700013999999995,1.24143473,-0.92310485,0
+301,GOBP,response to misfolded protein,0.6759885,0.62405855,-0.52886423,0
+302,GOBP,detection of misfolded protein,0.6759885,0.62405855,-0.52886423,0
+303,GOBP,receptor-mediated endocytosis,0.6759885,0.62405855,-0.52886423,0
+304,GOBP,hormone secretion,-1.4313299,2.70683357,5.87594096,2
+307,GOBP,energy reserve metabolic process,3.6588777,-0.8068251000000001,7.73779017,2
+308,GOBP,negative regulation of neuron apoptotic process,-3.21705476,5.82843237816,18.9856167422,2
+309,GOBP,positive regulation of calcium-mediated signaling,-1.4313299,2.70683357,5.87594096,2
+310,GOBP,regulation of short-term neuronal synaptic plasticity,-0.2431243,-1.48292331,-0.79613592,0
+312,GOBP,cell adhesion,3.7700013999999995,1.24143473,-0.92310485,0
+313,GOBP,regulation of neuron migration,-0.6482371,-0.70454822,0.83657411,0
+314,GOBP,actin crosslink formation,0.05302080000000001,0.03801047,-0.13701466,0
+315,GOBP,regulation of growth,3.7700013999999995,1.24143473,-0.92310485,0
+317,GOBP,cell-matrix adhesion,11.310004199999998,3.72430419,-2.76931455,0
+318,GOBP,cell-cell adhesion involved in synapse maturation,3.7700013999999995,1.24143473,-0.92310485,0
+321,GOBP,"synaptic transmission, glutamatergic",7.540002799999999,2.48286946,-1.8462096999999997,0
+324,GOBP,potassium ion import,-0.7834561,-1.97133309,-0.70733109,0
+325,GOBP,glial cell differentiation,18.9085886,6.30338927,-4.91211882,0
+326,GOBP,gliogenesis,1.7956187,-2.3664551,-3.46532059,0
+328,GOBP,regulation of cellular response to oxidative stress,-3.7700013999999995,-1.24143473,0.92310485,4
+329,GOBP,DNA biosynthetic process,7.438874799999999,2.39648596,-1.93278196,0
+330,GOBP,cell cycle process,0.05302080000000001,0.03801047,-0.13701466,0
+331,GOBP,neuron remodeling,-0.1332493,-0.14321595,-0.69335886,0
+332,GOBP,ERK5 cascade,-0.0825926,-1.02341071,-0.39074377,0
+334,GOBP,"phagocytosis, engulfment",-0.6607414,-2.65828438,-0.95115772,0
+335,GOBP,pyroptosis,1.7429519,-3.21614237,-1.77141635,0
+338,GOBP,lactic acid secretion,0.9780401,1.19525323,0.72408115,0
+339,GOBP,"positive regulation of synaptic transmission, cholinergic",1.4313299,-2.70683357,-5.87594096,0
+340,GOBP,cytokine production involved in inflammatory response,-0.47890379999999994,0.43951271,-6.27929076,0
+341,GOBP,axonogenesis,-0.9780401,-1.19525323,-0.72408115,0
+342,GOBP,T cell tolerance induction,-0.0825926,-1.02341071,-0.39074377,0
+344,GOBP,JAK-STAT cascade,-0.1093656,-0.01102738,0.02858353,0
+350,GOBP,cytokine production,-0.4696634,0.02558093,1.37860639,0
+351,GOBP,positive regulation of oxidative phosphorylation,-0.35454070000000004,0.01341413,-0.13984749999999999,0
+353,PTS,AKT signaling,0.1000645,-0.2586368,-0.11218526,0
+354,PTS,ERK cascade,0.1000645,-0.2586368,-0.11218526,0
+356,GOBP,regulation of phagocytosis,1.137256,1.6303841000000001,-0.40134828,0
+358,GOBP,cytokine secretion,-0.4696634,0.02558093,1.37860639,0
+359,GOBP,regulation of dendritic cell antigen processing and presentation,2.274512,3.2607682000000002,-0.80269656,0
+360,MESHPP,Mitochondrial Swelling,0.1330616,1.1391624,-2.57552718,0
+361,GOBP,glutamate secretion,-1.4313299,2.70683357,5.87594096,2
+368,GOBP,actin polymerization or depolymerization,-0.04820630000000001,0.02242392,0.15593887,0
+372,GOBP,viral entry into host cell,0.4499799,-0.03831822,-0.21923585,0
+373,GOBP,positive regulation of viral entry into host cell,0.4499799,-0.03831822,-0.21923585,0
+374,MESHPP,"Cell Transformation, Viral",0.4499799,-0.03831822,-0.21923585,0
+375,MESHPP,Virus Internalization,0.4499799,-0.03831822,-0.21923585,0
+380,GOBP,regulation of cAMP biosynthetic process,0.4683318,-0.71078302,-0.2141471,0
+383,PTS,Regulation of Wnt signaling pathway,0.7294284000000001,-0.12274319,0.72494574,0
+387,GOBP,cell cycle G1/S phase transition,0.8778823,-0.67826701,-0.31803237,0
+388,GOBP,SNARE complex assembly,0.41322250000000005,0.2857282,0.56846243,0
+391,GOBP,focal adhesion assembly,-0.007246600000000001,-1.27972531,-0.17321783,0
+392,GOBP,reactive oxygen species biosynthetic process,-0.0540947,0.38233979,0.03031921,0
+397,GOBP,iron assimilation by chelation and transport,-0.2272184844,-0.3634420122,-0.81230765184,0
